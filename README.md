@@ -72,5 +72,5 @@ This project is licensed under the MIT License.
 Contact**
 For any inquiries or suggestions, please contact Rushikesh Kava
 
-**thanks**
+
 
